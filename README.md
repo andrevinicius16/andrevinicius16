@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá! Eu sou o Andre 👋
 
-<!--
-**andrevinicius16/andrevinicius16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 
-Here are some ideas to get you started:
+💻 Atualmente estou dando meus primeiros passos em Python e aprimorando meus conhecimentos em programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 🎓 Estudante de ADS na FIAP
+- 🐍 Atualmente estudando Python
+- 🟨 Já estudei Lógica de Programação com JavaScript
+- 💡 Tenho interesse em desenvolvimento de software e tecnologia
+- 📚 Sempre buscando aprender e desenvolver novos projetos
+
+### 🛠️ Tecnologias e conhecimentos
+
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+### 📚 Atualmente estudando
+
+- Python
+- Lógica de programação
+- Estruturas de dados
+- Desenvolvimento de software
+
+### 🎯 Objetivo
+
+Busco desenvolver minhas habilidades em programação, construir projetos e conquistar minha primeira oportunidade na área de tecnologia.
+
+### 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevinicius16)
